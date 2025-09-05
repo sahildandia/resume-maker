@@ -1,0 +1,27 @@
+skills:
+  - name: Java
+    level: expert
+  - name: Spring Boot
+    level: intermediate
+  - name: Resume Parsing
+    level: expert
+  - name: Job Matching
+    level: intermediate
+education:
+  - degree: Bachelor of Science in Computer Science
+    institution: University of Example
+    year: 2020
+experience:
+  - title: Software Engineer
+    company: Example Corp
+    duration: 2 years
+    responsibilities:
+      - Developed applications using Java and Spring Boot
+      - Implemented resume parsing features
+      - Collaborated with HR for job matching algorithms
+  - title: Intern
+    company: Sample Inc
+    duration: 6 months
+    responsibilities:
+      - Assisted in developing web applications
+      - Participated in code reviews and testing
